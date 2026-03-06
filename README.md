@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../auto-saml-clicker/logo.svg" alt="GitHub SAML Auto-Continue logo" width="128" />
+  <img src="logo.svg" alt="GitHub SAML Auto-Continue logo" width="128" />
 </p>
 
 # GitHub SAML Auto-Continue (Safari)
